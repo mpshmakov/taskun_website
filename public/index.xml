@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taskun</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Taskun</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2025 06:03:11 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/privacy_policy/</link>
+      <pubDate>Sat, 04 Jan 2025 06:03:11 +0000</pubDate>
+      <guid>http://localhost:1313/privacy_policy/</guid>
+      <description>&lt;p&gt;Last Updated: January 4, 2025&lt;/p&gt;&#xA;&lt;p&gt;Taskun (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; &amp;ldquo;our&amp;rdquo;) respects your privacy. This Privacy Policy explains how we collect, use, and protect your information.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Data We Collect&#xA;Email Address: Collected during registration or use of the Service.&#xA;Event and Task Descriptions: Processed through OpenAI&amp;rsquo;s ChatGPT API for generating tasks and events.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How We Use Your Data&#xA;Email Address: Stored indefinitely to facilitate authentication and future Service features.&#xA;Event and Task Descriptions: Temporarily shared with OpenAI&amp;rsquo;s ChatGPT for processing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms of service</title>
+      <link>http://localhost:1313/terms_of_service/</link>
+      <pubDate>Sat, 04 Jan 2025 06:03:01 +0000</pubDate>
+      <guid>http://localhost:1313/terms_of_service/</guid>
+      <description>&lt;p&gt;Last Updated: January 4, 2025&lt;/p&gt;&#xA;&lt;p&gt;Welcome to Taskun (the &amp;ldquo;Service&amp;rdquo;). These Terms of Service (&amp;ldquo;Terms&amp;rdquo;) govern your use of the Service, provided by Maksim Shmakov (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; &amp;ldquo;our&amp;rdquo;). By accessing or using the Service, you agree to these Terms. If you do not agree, you must not use the Service.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Description of Service&#xA;Taskun uses AI technology to assist users in creating Google Calendar events and Google Tasks based on input messages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test_post</title>
+      <link>http://localhost:1313/posts/test_post/</link>
+      <pubDate>Sat, 04 Jan 2025 05:39:41 +0000</pubDate>
+      <guid>http://localhost:1313/posts/test_post/</guid>
+      <description>&lt;p&gt;#header&#xA;text&#xA;whatever&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
