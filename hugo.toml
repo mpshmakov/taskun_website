@@ -39,7 +39,7 @@ themeColor = "#494f5c"
 accentColor = "#018472"
 
 homeSubtitle = "A Telegram bot which helps you to create google calendar events and tasks with ease"
-#footerCopyright = ' <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+footerCopyright = 'Maksim Shmakov'
 # bgImg = ""
 # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
@@ -67,7 +67,7 @@ descriptionInPosts = true
 # allowRobots = "index, follow"
 # siteNoIndex = false
 # noIndexPages = ["404 Page not found"]
-footerHideThemeName = true
+#footerHideThemeName = true
 usesAnimation = true
 
 # [[params.socialLinks]]
