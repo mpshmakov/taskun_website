@@ -38,7 +38,7 @@ description = "A Telegram bot which helps you to create google calendar events a
 themeColor = "#494f5c"
 accentColor = "#018472"
 
-homeSubtitle = "A Telegram bot which helps you to create google calendar events and tasks with ease"
+homeSubtitle = "A Telegram bot which helps you to create google calendar events and tasks with ease (in development)"
 footerCopyright = 'Maksim Shmakov'
 # bgImg = ""
 # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
