@@ -22,12 +22,5 @@
       <guid>http://localhost:1313/terms_of_service/</guid>
       <description>&lt;p&gt;Last Updated: January 4, 2025&lt;/p&gt;&#xA;&lt;p&gt;Welcome to Taskun (the &amp;ldquo;Service&amp;rdquo;). These Terms of Service (&amp;ldquo;Terms&amp;rdquo;) govern your use of the Service, provided by Maksim Shmakov (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; &amp;ldquo;our&amp;rdquo;). By accessing or using the Service, you agree to these Terms. If you do not agree, you must not use the Service.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Description of Service&#xA;Taskun uses AI technology to assist users in creating Google Calendar events and Google Tasks based on input messages.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Test_post</title>
-      <link>http://localhost:1313/posts/test_post/</link>
-      <pubDate>Sat, 04 Jan 2025 05:39:41 +0000</pubDate>
-      <guid>http://localhost:1313/posts/test_post/</guid>
-      <description>&lt;p&gt;#header&#xA;text&#xA;whatever&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
